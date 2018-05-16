@@ -1,4 +1,4 @@
 XXX&
-1.0&
+1.1&
 CommunityMemberSystem_AS_v1.0.apk&
-https://blake72525.github.io/community/CommunityMemberSystem_AS_v1.0.apk
+https://blake72525.github.io/community/CommunityMemberSystem_AS_v1.1.apk
